@@ -2,7 +2,7 @@
 
 ![Captura de la WebApp](.readme-static/Captura_WebApp.JPG)
 
-Es una PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Algunas de las fetures que tiene son:
+Es una PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Algunas de las features que tiene son:
 
 - Soporte Offline con Workbox
 - Estrategias de red apropiadas para cada recurso
