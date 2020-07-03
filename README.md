@@ -4,7 +4,7 @@
 
 Es una PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Algunas de las fetures que tiene son:
 
-- SOporte Offline con Workbox
+- Soporte Offline con Workbox
 - Estrategias de red apropiadas para cada recurso
 - Add to Home Screen
 - Web Share API
