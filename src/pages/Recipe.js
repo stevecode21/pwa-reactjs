@@ -74,7 +74,7 @@ export default class Recipe extends React.Component {
         </div>
         <div>
           {/* Agregamos un link con el evento de compartir */}
-          <a onClick={this.compartir}>Compartir</a>
+          <a className="share" onClick={this.compartir}>Compartir</a>
         </div>
       </div>
 
